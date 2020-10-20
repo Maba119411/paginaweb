@@ -7,7 +7,7 @@
 <title>Index</title>
 <meta name="viewport" content="width=device-width", user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/indexA.css">
+<link rel="stylesheet" href="css/index.css">
 </head>
 
 <body>
@@ -60,15 +60,12 @@
 <th>&nbsp</th>
 <tr>
 <th>Contraseña: </th>
-<th><input type="password" name="Password" /><br /></th>
+<th><input type="text" name="Password" /><br /></th>
 </tr>
-<tr>
-<td>&nbsp</td>
-</tr>
-<tr>
-<td>&nbsp</td>
 
-<td><button class="btn btn-primary" type="submit">Entrar</button> </td>
+<tr>
+
+<th><button class="btn btn-primary" type="submit">Entrar</button> </th>
 </tr>
 </form>
 
